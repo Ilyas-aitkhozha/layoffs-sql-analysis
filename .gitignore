@@ -1,0 +1,2 @@
+*.sql
+!layoffs_analysis.sql
